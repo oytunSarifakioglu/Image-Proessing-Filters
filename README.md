@@ -7,3 +7,5 @@ Histogram Matching
 Morphological Processes
 
 Video Process
+
+More Image Processing techniques...
